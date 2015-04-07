@@ -18,17 +18,17 @@ tribunal de Strasbourg. Le siège de l’association est fixé au 285a, avenue d
 
 L’association a pour objet :
 
-    * le partage de connaissances ;
-    * l’expérimentation et la réalisation d’actions et de projets ;
-    * la sensibilisation aux technologies, leur étude et (ré)appropriation ;
-    * la diffusion citoyenne, sociale et artistique des connaissances, des outils et des 
-      méthodes liées aux activités de l’association ;
-    * et plus largement, d’engager toute action susceptible d’assurer la promotion, le 
-      développement, la recherche et la démocratisation des technologies et de la culture, 
-      de stimuler l’innovation technologique, réduire la fracture numérique, permettre 
-      l’égalité des chances face à la culture et aux technologies, promouvoir la liberté 
-      d’utiliser, de créer, de modifier les outils techniques, de développer 
-      l’interopérabilité des technologies.
+- le partage de connaissances ;
+- l’expérimentation et la réalisation d’actions et de projets ;
+- la sensibilisation aux technologies, leur étude et (ré)appropriation ;
+- la diffusion citoyenne, sociale et artistique des connaissances, des outils et des 
+  méthodes liées aux activités de l’association ;
+- et plus largement, d’engager toute action susceptible d’assurer la promotion, le 
+  développement, la recherche et la démocratisation des technologies et de la culture, 
+  de stimuler l’innovation technologique, réduire la fracture numérique, permettre 
+  l’égalité des chances face à la culture et aux technologies, promouvoir la liberté 
+  d’utiliser, de créer, de modifier les outils techniques, de développer 
+  l’interopérabilité des technologies.
 
 L’association poursuit un but non lucratif.
 
@@ -40,31 +40,31 @@ L’association est constituée pour une durée illimitée.
 
 Pour réaliser son objet l’association utilisera les moyens suivants :
 
-    * mise à disposition d’un espace collaboratif ;
-    * mise à disposition d’outils ;
-    * organisation d’événements ;
-    * participation à des manifestations ;
-    * la vente permanente ou occasionnelle de tous produits ou services entrant dans le 
-      cadre de son but ou susceptibles de contribuer à sa réalisation ;
-    * la publication sur tous supports, des actions de formation et d’éducation populaire 
-      en rapport avec l’objet de l’association ;
-    * la défense des positions de l’association auprès de toutes instances, locales, 
-      nationales, ou internationales, lors de tous travaux et débats ;
-    * et, plus largement, toutes autres actions, évènements ou manifestations visant à 
-      renforcer, faire connaître, défendre, promouvoir ou aider à la réalisation de 
-      l’objet de l’association.
+- mise à disposition d’un espace collaboratif ;
+- mise à disposition d’outils ;
+- organisation d’événements ;
+- participation à des manifestations ;
+- la vente permanente ou occasionnelle de tous produits ou services entrant dans le 
+  cadre de son but ou susceptibles de contribuer à sa réalisation ;
+- la publication sur tous supports, des actions de formation et d’éducation populaire 
+  en rapport avec l’objet de l’association ;
+- la défense des positions de l’association auprès de toutes instances, locales, 
+  nationales, ou internationales, lors de tous travaux et débats ;
+- et, plus largement, toutes autres actions, évènements ou manifestations visant à 
+  renforcer, faire connaître, défendre, promouvoir ou aider à la réalisation de 
+  l’objet de l’association.
 
 ### ARTICLE 5 : Les ressources
 
 Les ressources de l’association sont constituées par :
 
-    * les cotisations des membres ;
-    * les subventions émanant d’organismes publics ou privés ;
-    * les recettes des manifestations organisées par l’association ;
-    * les dons et les legs ;
-    * le revenu des biens et valeurs de l’association ;
-    * et, plus généralement, toutes ressources qui ne sont pas interdites par les lois et 
-      règlements en vigueur.
+- les cotisations des membres ;
+- les subventions émanant d’organismes publics ou privés ;
+- les recettes des manifestations organisées par l’association ;
+- les dons et les legs ;
+- le revenu des biens et valeurs de l’association ;
+- et, plus généralement, toutes ressources qui ne sont pas interdites par les lois et 
+  règlements en vigueur.
 
 TITRE II : Composition de l’association
 ---------------------------------------
@@ -103,14 +103,14 @@ nécessairement impliquées dans l’activité de ladite personne morale.
 
 La qualité de membre se perd par :
 
-    * décès de la personne physique ou dissolution de la personne morale ;
-    * démission adressée par écrit au président. Dans le cas d’une personne morale, la 
-      démission devra être soumise par une ou plusieurs personnes physiques nécessairement 
-      impliquées dans l’activité de ladite personne morale ;
-    * radiation prononcée par la direction pour non-paiement de la cotisation depuis plus 
-      d’une année ;
-    * exclusion prononcée par la direction. L’exclusion sera validée à la prochaine 
-      assemblée générale.
+- décès de la personne physique ou dissolution de la personne morale ;
+- démission adressée par écrit au président. Dans le cas d’une personne morale, la 
+  démission devra être soumise par une ou plusieurs personnes physiques nécessairement 
+  impliquées dans l’activité de ladite personne morale ;
+- radiation prononcée par la direction pour non-paiement de la cotisation depuis plus 
+  d’une année ;
+- exclusion prononcée par la direction. L’exclusion sera validée à la prochaine 
+  assemblée générale.
 
 La perte de la qualité de membre ne justifie aucun remboursement de cotisation.
 
@@ -139,13 +139,13 @@ sont membres depuis moins d’une année.
 
 La direction comprend les postes suivants :
 
-    * un président ;
-    * un trésorier ;
-    * un secrétaire ;
-    * éventuellement un vice-présidents ;
-    * éventuellement un ou plusieurs trésoriers adjoints ;
-    * éventuellement un ou plusieurs secrétaires adjoints ;
-    * éventuellement un ou plusieurs conseillers.
+- un président ;
+- un trésorier ;
+- un secrétaire ;
+- éventuellement un vice-présidents ;
+- éventuellement un ou plusieurs trésoriers adjoints ;
+- éventuellement un ou plusieurs secrétaires adjoints ;
+- éventuellement un ou plusieurs conseillers.
 
 #### Le président
 
@@ -207,8 +207,8 @@ L’assemblée générale est composée exclusivement de l’ensemble des membre
 Elle se réunit une fois par an et chaque fois que l’intérêt de l’association l’exige.
 Modalités de convocation
 
-    * à la demande de la majorité des membres de la direction
-    * sur proposition de 30% des membres de l’association.
+- à la demande de la majorité des membres de la direction
+- sur proposition de 30% des membres de l’association.
 
 Les convocations contiennent l’ordre du jour et sont adressées par email à la ou aux 
 adresses électroniques fournie(s) par chaque membre au moins 10 jours avant la date fixée. 
@@ -307,9 +307,9 @@ liquidation des biens de celle-ci. Les membres de l’association ne peuvent se 
 attribuer, en dehors de la reprise de leurs apports financiers, mobiliers ou immobiliers, 
 une part quelconque des biens de l’association. L’actif net subsistant sera attribué à :
 
-    * une association poursuivant des buts similaires,
-    * un organisme à but d’intérêt général (école, commune, syndicat…) choisi par 
-      l’assemblée générale.
+- une association poursuivant des buts similaires,
+- un organisme à but d’intérêt général (école, commune, syndicat…) choisi par 
+  l’assemblée générale.
 
 La dissolution fera l’objet d’un procès verbal signé par le président et le secrétaire et 
 sera transmis au tribunal au plus vite.
