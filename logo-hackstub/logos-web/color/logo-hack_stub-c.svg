@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Hackstub logo v1 - 2015 -->
+	 
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="346.334px" y="183.7px"
+	 width="200px" height="200px" viewBox="346.334 183.7 200 200" enable-background="new 0 0 833.669 850.4" xml:space="preserve">
+
+<g id="LOGO-COLOR-TRACÉ" fill="none" stroke-width="9.8079" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3">
+	<g id="hack_stub">
+		<polyline id="b" stroke="#282828" points="485.491,274.966 510.011,289.141 485.491,303.312 485.491,257.96"/>
+		<polyline id="u" stroke="#0000FF" points="460.971,289.141 485.491,303.312 485.491,274.967"/>
+		<g id="t" stroke="#282828">
+		<line x1="446.259" y1="280.638" x2="446.259" y2="325.991"/>
+		<line x1="446.259" y1="297.645" x2="460.971" y2="289.141"/>
+		</g>
+		<polyline id="s" stroke="#0000FF" points="441.354,300.479 421.739,311.818 446.259,325.991 421.739,340.164"/>
+		<g id="k" stroke="#282828">
+		<line x1="446.259" y1="280.636" x2="446.259" y2="235.282"/>
+		<polyline points="	470.778,266.464 446.259,252.291 465.874,240.952"/>
+		</g>
+		<polyline id="c" stroke="#0000FF" points="446.259,280.636 421.739,266.463 441.354,255.124"/>
+		<polygon id="a" stroke="#282828" points="407.026,303.314 407.026,274.968 431.546,289.142"/>
+		<g id="h" stroke="#0000FF">
+		<line x1="387.411" y1="269.298" x2="387.411" y2="314.651"/>
+		<polyline points="	387.411,286.307 407.026,274.968 407.026,303.314"/>
+		</g>
+	</g>
+</g>
+
+</svg>

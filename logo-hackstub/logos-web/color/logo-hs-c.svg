@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Hackstub logo v1 - 2015 -->
+	 
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="305.344px" y="479.298px"
+	 width="120px" height="120px" viewBox="305.344 479.298 120 120" enable-background="new 0 0 833.669 850.4" xml:space="preserve">
+
+<g id="LOGO-COLOR-TRACÉ" fill="none" stroke-width="9.8079" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3">
+	<g id="hs">
+		<polyline id="b" stroke="#282828" points="362.891,527.25 387.412,541.424 362.891,555.598 362.891,511.66"/>
+		<polyline id="s" stroke="#0000FF" points="382.506,515.914 362.891,527.253 387.411,541.426 362.891,555.599"/>
+		<g id="k" stroke="#282828">
+		<line x1="362.891" y1="555.597" x2="362.891" y2="511.66"/>
+		<polyline points="	387.411,541.424 362.891,527.251 382.506,515.912"/>
+		</g>
+		<g id="h" stroke="#0000FF">
+		<line x1="343.275" y1="522.999" x2="343.275" y2="566.937"/>
+		<polyline points="	343.275,538.592 362.891,527.253 362.891,555.6"/>
+		</g>
+	</g>
+</g>
+
+</svg>

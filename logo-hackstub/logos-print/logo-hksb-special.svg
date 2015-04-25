@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Hackstub logo v1 - 2015 -->
+	 
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="154.428px" y="340.561px"
+	 width="260px" height="260px" viewBox="154.428 340.561 260 260" enable-background="new 0 0 833.669 850.4" xml:space="preserve">
+
+<g id="fond" display="none">
+	<rect display="inline" y="0" fill="#282828" width="833.669" height="850.4"/>
+</g>
+
+<g id="PRINT">
+	<g id="LOGO-W-SPECIAL_1_">
+		<g id="cercle">
+			<circle fill="#282828" cx="284.428" cy="470.561" r="77.953"/>
+		</g>
+		
+		<g id="hksb-w" fill="none" stroke="#FFFFFF" stroke-width="9.8079" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3">
+				<polyline id="b" points="308.947,445.046 333.467,459.22 308.947,473.393 308.947,428.04"/>
+				<polyline id="s" points="304.043,447.883 284.428,459.222 308.947,473.395 284.428,487.567"/>
+			<g id="k">
+				<line x1="264.812" y1="498.904" x2="264.812" y2="453.551"/>
+				<polyline points="289.332,484.731 264.812,470.559 284.427,459.22"/>
+			</g>
+			<g id="h">
+				<line x1="245.196" y1="464.891" x2="245.196" y2="510.244"/>
+				<polyline points="245.196,481.899 264.812,470.561 264.812,498.907"/>
+			</g>
+		</g>
+	</g>
+</g>
+
+</svg>

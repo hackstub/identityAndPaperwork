@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Hackstub logo v1 - 2015 -->
+	 
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="833.669px" height="850.4px" viewBox="0 0 833.669 850.4" enable-background="new 0 0 833.669 850.4" xml:space="preserve">
+
+<g id="atelier_arduino" fill="none" stroke-width="9.8079" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3">
+	<g id="arduino">
+		<polygon  id="o" stroke="#0000FF" points="433.053,69.451 433.053,86.46 442.862,92.128 452.669,86.458 452.668,69.451 442.862,63.783"/>
+		<polyline id="n" stroke="#282828" points="398.726,117.639 398.726,89.292 408.533,83.622 418.342,89.292 418.342,106.299"/>
+		<g id="i">
+			<line stroke="#0000FF" x1="384.012" y1="97.8" x2="384.012" y2="126.144"/>
+			<polyline stroke="#0000FF" points="	388.917,83.626 384.012,80.79 379.11,83.626 			"/>
+		</g>
+		<polyline id="u" stroke="#282828" points="344.782,120.474 369.302,134.646 369.302,106.3"/>
+		<polyline id="d" stroke="#0000FF" points="330.07,128.979 305.549,143.152 330.07,157.324 330.07,111.971"/>
+		<polyline id="r" stroke="#282828" points="281.025,185.673 281.025,157.327 290.832,151.657 300.641,157.327"/>
+		<polygon  id="a" stroke="#0000FF" points="241.793,208.35 241.793,180.004 266.313,194.178"/>
+	</g>
+	
+	<g id="atelier">
+		<polyline id="r" stroke="#282828" points="349.679,60.949 349.679,32.603 359.489,26.933 369.295,32.603"/>
+		<polygon  id="e" stroke="#0000FF" points="310.449,55.28 334.968,41.108 334.968,69.455"/>
+		<g id="i">
+			<line stroke="#282828" x1="295.728" y1="63.791" x2="295.728" y2="92.135"/>
+			<polyline stroke="#282828" points="	300.633,49.616 295.728,46.782 290.824,49.616 			"/>
+		</g>
+		<line    id="l" stroke="#0000FF" x1="276.12" y1="58.116" x2="276.12" y2="103.472"/>
+		<polygon id="e" stroke="#282828" points="236.882,97.804 261.402,83.632 261.402,111.979"/>
+		<g id="t">
+			<line stroke="#0000FF" x1="207.465" y1="97.803" x2="207.465" y2="143.157"/>
+			<line stroke="#0000FF" x1="207.465" y1="114.81" x2="222.177" y2="106.306"/>
+		</g>
+		<polygon id="a" stroke="#282828" points="168.235,165.83 168.235,137.483 192.754,151.657"/>
+	</g>
+</g>
+
+</svg>
