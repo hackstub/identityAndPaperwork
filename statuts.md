@@ -12,8 +12,8 @@ association dénommée : Hackstub. Cette association est régie par les articles
 à 79-III du Code Civil Local maintenus en vigueur dans les départements du
 Bas-Rhin, Haut-Rhin et Moselle, ainsi que par les présents statuts.
 L’association est inscrite au registre des associations du tribunal de
-Strasbourg. Le siège de l’association est fixé au 285a, avenue de Colmar, 67100
-Strasbourg. Le siège peut être transféré sur simple décision de la direction.
+Strasbourg. Le siège de l’association est fixé à Strasbourg.
+Le siège peut être transféré sur simple décision de la direction.
 
 ### ARTICLE 2 : Objet et but
 
