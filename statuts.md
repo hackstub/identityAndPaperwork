@@ -12,7 +12,8 @@ association dénommée : Hackstub. Cette association est régie par les articles
 à 79-III du Code Civil Local maintenus en vigueur dans les départements du
 Bas-Rhin, Haut-Rhin et Moselle, ainsi que par les présents statuts.
 L’association est inscrite au registre des associations du tribunal de
-Strasbourg. Le siège de l’association est fixé à Strasbourg.
+Strasbourg. Le siège de l’association est fixé au 42 rue du Ban de la Roche 
+67000 Strasbourg.
 Le siège peut être transféré sur simple décision de la direction.
 
 ### ARTICLE 2 : Objet et but
@@ -328,9 +329,16 @@ biens de l’association. L’actif net subsistant sera attribué à :
 
 La dissolution fera l’objet d’un procès verbal signé par le président et le
 secrétaire et sera transmis au tribunal au plus vite.
- 
 
-Les présents statuts ont été adoptés par l’assemblée générale constitutive qui
+TITRE V – Historique des modifications 
+---------------------------------------
+
+Les présents statuts ont été adoptés par l’assemblée générale constitutive qui 
 s’est tenue à Strasbourg le 15 octobre 2012.
+
+Les présents statuts ont été modifiés par le bureau de l'association Hackstub 
+le 12 décembre 2023 afin d'indiquer le changement de siège, conformément 
+à la décision prise en Assemblée générale qui s’est tenue à Strasbourg 
+le 23 septembre 2023.
 
 
