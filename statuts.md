@@ -12,8 +12,8 @@ association dénommée : Hackstub. Cette association est régie par les articles
 à 79-III du Code Civil Local maintenus en vigueur dans les départements du
 Bas-Rhin, Haut-Rhin et Moselle, ainsi que par les présents statuts.
 L’association est inscrite au registre des associations du tribunal de
-Strasbourg. Le siège de l’association est fixé au 42 rue du Ban de la Roche 
-67000 Strasbourg.
+Strasbourg. Le siège de l’association est fixé au C/O La Semencerie 42, rue du Ban 
+de la Roche 67000 Strasbourg.
 Le siège peut être transféré sur simple décision de la direction.
 
 ### ARTICLE 2 : Objet et but
