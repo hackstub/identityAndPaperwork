@@ -333,9 +333,11 @@ TITRE V – Historique des modifications
 Les présents statuts ont été adoptés par l’Assemblée Générale constitutive qui 
 s’est tenue à Strasbourg le 15 octobre 2012.
 
-Les présents statuts ont été modifiés par le Bureau de l'association Hackstub 
-le 12 décembre 2023 afin d'indiquer le changement de siège, conformément 
-à la décision prise en Assemblée Générale qui s’est tenue à Strasbourg 
+Les présents statuts ont été modifiés :
+- par le Bureau de l'association Hackstub le 12 décembre 2023 afin d'indiquer le changement de siège, conformément à la décision prise en Assemblée Générale qui s’est tenue à Strasbourg 
 le 23 septembre 2023.
+- par le Bureau de l'association le 17 février 2024 afin de tenir compte des décisions prononcées par l’Assemblée Générale Extraordinaire du 17 février 2024.
 
-
+|Marjorie OBER|Ada WOJTOWICZ|
+|-|-|
+|Coprésidente|Secrétaire|
